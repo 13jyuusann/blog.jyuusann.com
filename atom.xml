@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>第七卫星的微风</title>
+  <icon>https://blog.jyuusann.com/icon.png</icon>
+  <subtitle>13&amp;#39;s blog</subtitle>
+  <link href="https://blog.jyuusann.com/atom.xml" rel="self"/>
+  
+  <link href="https://blog.jyuusann.com/"/>
+  <updated>2023-11-03T13:19:55.000Z</updated>
+  <id>https://blog.jyuusann.com/</id>
+  
+  <author>
+    <name>13</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>自宅警备员生存指南 - 咖喱牛腩饭</title>
+    <link href="https://blog.jyuusann.com/posts/de81c4a8/"/>
+    <id>https://blog.jyuusann.com/posts/de81c4a8/</id>
+    <published>2023-11-03T13:19:55.000Z</published>
+    <updated>2023-11-03T13:19:55.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;裸辞家里蹲一个月，工作没找着，看着外卖价格越来越贵，菜又重油盐，于是决定研究一下做饭。&lt;br&gt;跟着网上菜谱做两次都没记太牢步骤，手写记录一下帮助记忆。&lt;/p&gt;
+&lt;h2 id=&quot;材料&quot;&gt;&lt;a href=&quot;#材料&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="杂谈" scheme="https://blog.jyuusann.com/categories/%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="自宅警备员生存指南" scheme="https://blog.jyuusann.com/tags/%E8%87%AA%E5%AE%85%E8%AD%A6%E5%A4%87%E5%91%98%E7%94%9F%E5%AD%98%E6%8C%87%E5%8D%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2023.9</title>
+    <link href="https://blog.jyuusann.com/posts/715c5544/"/>
+    <id>https://blog.jyuusann.com/posts/715c5544/</id>
+    <published>2023-09-28T14:06:28.000Z</published>
+    <updated>2023-09-28T14:06:28.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;8月建完博客之后一直忙着没什么空管这边，按时间顺序碎碎念一下这两个月的事叭。&lt;/p&gt;
+&lt;h2 id=&quot;COMIDAY-26&quot;&gt;&lt;a href=&quot;#COMIDAY-26&quot; class=&quot;headerlink&quot; title=&quot;COMIDAY 26&quot;&gt;&lt;/a&gt;COMIDAY</summary>
+        
+      
+    
+    
+    
+    <category term="杂谈" scheme="https://blog.jyuusann.com/categories/%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="生活" scheme="https://blog.jyuusann.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+    <category term="COMIDAY" scheme="https://blog.jyuusann.com/tags/COMIDAY/"/>
+    
+    <category term="赛博朋克2077" scheme="https://blog.jyuusann.com/tags/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B2077/"/>
+    
+    <category term="GARNiDELiA" scheme="https://blog.jyuusann.com/tags/GARNiDELiA/"/>
+    
+    <category term="最终幻想12黄道时代" scheme="https://blog.jyuusann.com/tags/%E6%9C%80%E7%BB%88%E5%B9%BB%E6%83%B312%E9%BB%84%E9%81%93%E6%97%B6%E4%BB%A3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://blog.jyuusann.com/posts/4a17b156/"/>
+    <id>https://blog.jyuusann.com/posts/4a17b156/</id>
+    <published>2023-08-08T15:05:55.000Z</published>
+    <updated>2023-08-08T15:05:55.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;折腾两天终于又把博客建了起来，虽然这次也是不知道第几次重建博客，不说要一直坚持下去，先试着坚持域名买的这一年不断更吧。&lt;/p&gt;
+&lt;h2 id=&quot;名字&quot;&gt;&lt;a href=&quot;#名字&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="杂谈" scheme="https://blog.jyuusann.com/categories/%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="生活" scheme="https://blog.jyuusann.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+</feed>
